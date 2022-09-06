@@ -82,5 +82,6 @@ button span{
     left: 50%;
     transform: translateX(-50%);
     width: 700px;
+    margin-left: -10px;
 }
 
